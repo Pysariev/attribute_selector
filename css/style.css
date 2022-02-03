@@ -1,0 +1,72 @@
+/* [type] {
+    background-color: indianred;
+} */
+
+/* a[target], input[type] {
+    background-color: red;
+} */
+
+/* img[alt="quadrocopter"] {
+    border: 5px solid rgb(169, 252, 5);
+    } */
+
+/* ul[class="list_item"]{
+    border: 2px solid rgb(252, 5, 5);
+    } */
+
+/* section a[target="_blank"] {
+    color: aquamarine;
+} */
+
+/* input[type="text"], a[type="text"]{
+    background-color: brown;
+} */
+
+/* p[class~="lorem"] {
+    background-color: rgb(219, 245, 171);
+    border: 2px solid rgb(245, 24, 24);
+} */
+
+/* p[class|="ipsum"] {
+    border: 2px solid rebeccapurple;
+    background-color: yellow;
+} */
+
+/* input[type^="te"] {
+    background-color: chartreuse;
+} */
+
+/* a[href$="com"] {
+    border: 2px solid green;
+    background-color: hotpink;
+} */
+
+/* a[href*="www"] {
+    border: 2px solid rgb(34, 228, 66);
+    background-color: rgb(250, 4, 4);
+} */
+
+
+
+.lorem {
+    color: tomato;
+    
+}
+
+.ipsum {
+    font-size: 20px;
+    font-style: bold;
+    word-spacing: 10px;
+}
+
+.dolor {
+    background-color: rgb(165, 231, 252);
+}
+
+
+img {
+    width: 200px;
+}
+body {
+    margin: 20px;
+}
